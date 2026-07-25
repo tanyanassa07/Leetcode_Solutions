@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2239-find-closest-number-to-zero) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Linked List
 |  |
 | ------- |
