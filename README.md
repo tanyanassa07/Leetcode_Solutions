@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
