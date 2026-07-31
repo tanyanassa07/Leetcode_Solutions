@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1051-height-checker) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -212,4 +217,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
