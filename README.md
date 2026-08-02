@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
