@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
