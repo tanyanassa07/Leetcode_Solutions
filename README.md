@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2595-number-of-even-and-odd-bits](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 ## Prefix Sum
 |  |
 | ------- |
