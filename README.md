@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
