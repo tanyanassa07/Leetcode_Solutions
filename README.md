@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
