@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3637-trionic-array-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2235-add-two-integers) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
