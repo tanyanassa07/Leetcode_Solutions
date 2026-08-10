@@ -290,14 +290,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
-## Depth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
-| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
-| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
-<!---LeetCode Topics End-->
