@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Database
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Game Theory
 |  |
 | ------- |
@@ -284,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
