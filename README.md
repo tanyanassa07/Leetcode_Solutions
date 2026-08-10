@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Database
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Game Theory
@@ -290,9 +293,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
