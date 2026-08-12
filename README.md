@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0434-number-of-segments-in-a-string](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1002-find-common-characters) |
