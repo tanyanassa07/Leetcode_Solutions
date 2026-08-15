@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2512-reward-top-k-students](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [2512-reward-top-k-students](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [2512-reward-top-k-students](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2942-find-words-containing-character](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
+| [2512-reward-top-k-students](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2512-reward-top-k-students](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
