@@ -21,7 +21,6 @@ for(i=0;i<n2;i++)
 s2.insert(negative_feedback[i]);
 vector<int>answer;
 int n=report.size();
-unordered_map<int,int>mpp;
 vector<pair<int,int>>pq;
 for(i=0;i<n;i++)
 {
