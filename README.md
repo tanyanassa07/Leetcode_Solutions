@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
