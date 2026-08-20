@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
