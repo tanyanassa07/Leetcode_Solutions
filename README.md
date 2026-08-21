@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3912-valid-elements-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
+| [4024-nearest-available-drone](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
 ## Sliding Window
 |  |
 | ------- |
