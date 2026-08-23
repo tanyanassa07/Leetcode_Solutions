@@ -1,27 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> findDisappearedNumbers(vector<int>& nums, int lower, int upper) {
-vector<vector<int>>answer;
-int n=nums.size();
+int an=upper+1;
+int freq[100001]={0};
 int i;
+vector<vector<int>>answer;
 int start;
 int end;
-set<int>st;
+int n=nums.size();
 for(i=0;i<n;i++)
-{st.insert(nums[i]);}
-for(i=lower;i<=upper;i++)
+freq[nums[i]]=1;
+for(i=lower;i<=upper;i++){
+if(freq[i]==0)
+{start=i;
+while(freq[i]==0)
 {
-if(st.find(i)!=st.end())
-{}
-else
-{
-start=i;
-while(i<=upper&&st.find(i)==st.end())
-{end=i;
-i=i+1;}
+end=i;
+i=i+1;
+if(i>upper)
+{break;}
+}
 answer.push_back({start,end});
 }
 }
-return answer;     
+return answer;       
     }
 };
