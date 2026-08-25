@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
