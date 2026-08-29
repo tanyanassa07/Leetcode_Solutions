@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3707-equal-score-substrings) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
 |  |
