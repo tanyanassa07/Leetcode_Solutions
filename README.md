@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3912-valid-elements-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [4024-nearest-available-drone](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
