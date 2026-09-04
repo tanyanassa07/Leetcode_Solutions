@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [4024-nearest-available-drone](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3707-equal-score-substrings](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3707-equal-score-substrings) |
+| [3903-smallest-stable-index-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
