@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1399-count-largest-group) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/2418-sort-the-people) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1399-count-largest-group) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1399-count-largest-group](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1399-count-largest-group) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
