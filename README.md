@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanyanassa/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4024-nearest-available-drone](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
 ## Sliding Window
 |  |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanyanassa07/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quicksort
 |  |
 | ------- |
